@@ -4,7 +4,7 @@ title:  "Myths of Skincare Trends"
 author: rachel
 categories: [ Beauty Uncensored ]
 image: assets/images/skincare_myths.jpg
-tags: 
+tags:
 ---
 Whether you’re new to skincare or simply just starting out, we’re oftentimes bombarded with the latest skincare trends, advice, and miracle ingredients. With a sea of information, it can be hard to discern what's a valid suggestion or simply a bust. Let’s discuss some of the hot trends of swarming the internet. 
 
