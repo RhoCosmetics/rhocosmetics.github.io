@@ -1,48 +1,33 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: jane
-categories: [ Jekyll, tutorial ]
-image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-tags: [summer]
+title:  "Myths of Skincare Trends"
+author: rachel
+categories: [ Beauty Uncensored ]
+image: assets/images/4.jpg
+tags: 
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+## **Myths of Skincare Trends**
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+Whether you’re new to skincare or simply just starting out, we’re oftentimes bombarded with the latest skincare trends, advice, and miracle ingredients. With a sea of information, it can be hard to discern what's a valid suggestion or simply a bust. Let’s discuss some of the hot trends of swarming the internet. 
 
+1. Natural and organic skincare are the best for the skin.
+2. You should refrigerate your skincare.
+3. Preservative free skincare is better.
 
-## Special formatting
+#### **Natural and organic doesn’t mean safe or effective.** 
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+The connotation of natural ingredients is often associated with the freshest, minimally processed ingredients found in nature. If only it could be that simple. Although these ingredients can be minimally processed, this does not guarantee safety or efficacy of the material. Natural earth minerals often used in cosmetics can be gathered from the earth surface, but contain harmful traces of heavy metals and substances if not processed and purified correctly. 
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+Likewise can be said about organic ingredients. Although organically sourced, ingredients that are not properly processed can be harmful in our products. Just because an apple is organic, it does not mean the seeds are free of potentially harmful amygdalin, or cyanide when crushed. More often than not the quality of natural and organic ingredients comes down to the method of processing.
 
+In the world of skincare there’s a benefit to combining different ingredients to achieve a safe and effective product, not just under the constraints of natural or organic. Naturally-derived modified ingredients and synthetic ingredients serve great benefits when used properly in skincare. With these ingredients, it's possible to achieve greater ingredient purity, which can be safer and more effective in skincare than natural and organic counterparts.
 
-## Writing code blocks
+#### **The grey area of refrigerating products.** 
 
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
+With the rise of popularity of skincare mini fridges, it’s tempting to throw every product under the moon into a chilled cubby. Whether it’s an attempt to enhance the cooling effect of face masks or to promote the longevity of products, it’s important to take a step back and consider the effects of refrigeration on a product’s performance. 
 
-```
-.my-link {
-    text-decoration: underline;
-}
-```
+Skincare products are typically formulated with the intent of being used at room temperature. When products are exposed to cooler temperatures individualized ingredients may crystallize, forming an undesirable rough texture during application. Though there are testing measures to combat issues in chilled products, it’s generally not recommended to cool products for extended amounts of time. 
 
-If you want to get really fancy, you can even add syntax highlighting using Rouge.
+#### **Preservatives are essential in skincare.**
 
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+Product safety is arguably the most important aspect of any skincare product. There’s a reason why preservatives are in products. It’s to protect you, the user from the nasties of yeast, mold, and bacteria. Sure preservatives free products sound less toxic but on the contrary, skin contamination and infections as the result of unpreserved products can be more harmful to the health. Where there’s water, there’s a great humid environment for microorganisms to grow. Therefore, all water containing products should contain preservatives. 

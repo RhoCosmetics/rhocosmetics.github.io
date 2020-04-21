@@ -1,6 +1,6 @@
 # Site
-name: 'Rho Cosmetics Blog'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Glow With Rho'
+description: 'Inspiring better beauty choices through skincare science.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -23,17 +23,10 @@ authors:
       name:           Rachel
       site:           https://rhocosmetics.com
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "Hi. I'm Rachel, the founder and formulation chemist behind Rho Cosmetics. Better beauty choices begins with a true understanding of what we put on our skin. Let's talk skincare!"
       email:          rachel@rhocosmetics.com
-      twitter:        https://twitter.com/wowthemesnet
+      instagram:        https://instagram.com/rhocosmetics
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
