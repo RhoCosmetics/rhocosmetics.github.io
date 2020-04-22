@@ -12,11 +12,13 @@ Whether you’re new to skincare or simply just starting out, we’re oftentimes
 2. You should refrigerate your skincare.
 3. Preservative free skincare is better.
 
+![test](\assets\images\natural.jpg)
+
 #### **Natural and organic doesn’t mean safe or effective.** 
 
-The connotation of natural ingredients is often associated with the freshest, minimally processed ingredients found in nature. If only it could be that simple. Although these ingredients can be minimally processed, this does not guarantee safety or efficacy of the material. Natural earth minerals often used in cosmetics can be gathered from the earth surface, but contain harmful traces of heavy metals and substances if not processed and purified correctly. 
+The connotation of natural ingredients is often associated with the freshest, minimally processed ingredients found in nature. If only it could be that simple. Although these ingredients can be minimally processed, this does not guarantee safety or efficacy of the material. Natural earth minerals often used in cosmetics can be gathered from the earth surface. If not processed and purified correctly, they may contain harmful traces of heavy metals and substances. 
 
-Likewise can be said about organic ingredients. Although organically sourced, ingredients that are not properly processed can be harmful in our products. Just because an apple is organic, it doesn't mean the seeds are free of potentially harmful amygdalin, or cyanide when crushed. More often than not the quality of natural and organic ingredients comes down to the method of processing.
+Likewise, can be said about organic ingredients. Although organically sourced, ingredients that are not properly processed can be harmful in our products. Just because an apple is organic, it doesn't mean the seeds are free of potentially harmful amygdalin, or cyanide when crushed. More often than not the quality of natural and organic ingredients comes down to the method of processing.
 
 In the world of skincare there’s a benefit to combining different ingredients to achieve a safe and effective product, not just under the constraints of natural or organic. Naturally-derived modified ingredients and synthetic ingredients serve great benefits when used properly in skincare. With these ingredients, it's possible to achieve greater ingredient purity, which can lead to safer and more effective in skincare compared to natural and organic counterparts.
 
@@ -28,4 +30,4 @@ Skincare products are typically formulated with the intent of being used at room
 
 #### **Preservatives are essential in skincare.**
 
-Product safety is arguably the most important aspect of any skincare product. There’s a reason why preservatives are in products. It’s to protect you, the user from the nasties of yeast, mold, and bacteria. Sure preservatives free products sound less toxic but on the contrary, skin contamination and infections as the result of unpreserved products can be more harmful to the health. Where there’s water, there’s a humid environment for microorganisms to grow. Therefore, all water containing products should contain some amount of preservatives. 
+Product safety is arguably the most important aspect of any skincare product. There’s a reason why preservatives are in products. It’s to protect you, the user from the nasties of yeast, mold, and bacteria. Sure, preservatives free products sound less toxic but on the contrary, skin contamination and infections as the result of unpreserved products can be more harmful to the health. Where there’s water, there’s a humid environment for microorganisms to grow. Therefore, all water containing products should contain some amount of preservatives. 

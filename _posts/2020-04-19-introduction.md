@@ -1,19 +1,60 @@
 ---
 layout: post
-title:  "Better Skin Begins With Better Beauty Choices"
-author: rachel
-categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+title:  "Cutting-Edge Seattle Skincare"
+author:
+categories: [ Featured ]
+image: assets/images/seattle magazine.jpg
+tags: 
 ---
 
-Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
+See original [post](http://www.seattlemag.com/shopping/cutting-edge-seattle-skincare) by [Andrew Hoge](http://seattlemag.com/users/andrew-hoge) , Seattle Magazine
 
-#### Early 18th century woodcut of Bucharest
+Image Credit: Alex Crook
 
-The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]
+This article appears in print in the [Seattle Magazine](http://www.seattlemag.com/) April 2020 issue as part of the Get Well Soon cover story. 
 
-The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-16th century. Under subsequent rulers, Bucharest was established as the summer residence of the royal court. During the years to come, it competed with Târgoviște on the status of capital city after an increase in the importance of southern Muntenia brought about by the demands of the suzerain power – the Ottoman Empire.
+The innovative character of the Pacific Northwest means there’s no lack of effective skin care. From organic plant extracts to robust peptides, the cutting-edge ingredients in these 11 essential new products are here to help you achieve a healthy, glowing
 
-Bucharest finally became the permanent location of the Wallachian court after 1698 (starting with the reign of Constantin Brâncoveanu).
+**Lait de Rose Vitamin C** **Polishing Wash by French Girl**
 
-Partly destroyed by natural disasters and rebuilt several times during the following 200 years, and hit by Caragea’s plague in 1813–14, the city was wrested from Ottoman control and occupied at several intervals by the Habsburg Monarchy (1716, 1737, 1789) and Imperial Russia (three times between 1768 and 1806). It was placed under Russian administration between 1828 and the Crimean War, with an interlude during the Bucharest-centred 1848 Wallachian revolution. Later, an Austrian garrison took possession after the Russian departure (remaining in the city until March 1857). On 23 March 1847, a fire consumed about 2,000 buildings, destroying a third of the city.
+Mix this powdered exfoliant ($40), a blend of kakadu plum, watermelon and bamboo, with water and gently scrub to brighten your skin. *Available at frenchgirlorganics.com*
+
+**Antioxidant Cleanser** **by Schwanen Garten**
+
+The antioxidant cleanser ($28) by clean-beauty line Schwanen Garten is formulated with botanical extracts to help eradicate clogged pores, breakouts and uneven texture. *Available at hellokbanana.com*
+
+**Multi-active Antioxidant** **Ampoule by Schwanen Garten**
+
+Mix this luxurious serum ($68), also from Schwanen Garten, with a day or night moisturizer to improve a dull complexion and acne. *Available at hellokbanana.com*
+
+**Damage Control Lash** **and Brow Fortifier** **by Beauty Garde**
+
+With its proprietary formula of flower and nut extracts combined with peptides, Seattle-based Beauty Garde’s Damage Control Lash and Brow Fortifier ($24) promises denser hair growth at the lash line and on the brow. *Available at beautygarde.com*
+
+**Hydra Boost Repair** **and Balance Serum** **by Rho Cosmetics**
+
+Bellevue-based Rho Cosmetics blends naturally derived and synthetic ingredients to maximum effect. To battle parched skin, slather on the creamy Hydra Boost Repair + Balance Serum ($78), which contains high concentrations of just two active ingredients. *Available at rhocosmetics.com*
+
+**Sleepy Spritzzz by Moonlit Skincare**
+
+Sleep works wonders for your skin. This two-in-one facial toner and sleep mist ($32) contains witch hazel and aloe vera to balance oily, acne-prone skin, while essences of chamomile and lavender may help you get some shut eye. *Available at nordstrom.com*
+
+**Luminate Stem Cell Facial Cream** **by Lumvi Skincare**
+
+Seattle-based eco-luxe skincare line Lumvi makes this sweet-smelling facial cream ($95), which blends Swiss apple stem cells, ginseng and vitamin C. Use as a night cream to support skin repair. *Available at lumviskincare.com*
+
+**Radiance Brightening Peptide** **Serum by Lumvi Skincare**
+
+Also from Lumvi, a standout serum ($115) that helps firm skin with plant-sourced peptides, hydrates with hyaluronic acid and offers a big dose of vitamin C for brightening. *Available at* [*lumviskincare.com*](https://lumviskincare.com/)
+
+**Face Cream Smooth 100** **by Medical Beauty Research (MBR)**
+
+Penelope and the Beauty Bar’s latest must-have product is Face Cream Smooth 100 by MBR, which, at $610 a jar, claims to promote stem cell rejuvenation, strengthen collagen fibers and reduce wrinkles. *Available at penelopeandthebeautybar.com*
+
+**Snow Mushroom and** **Reishi Masque by Eminence Organic Skin Care**
+
+Celeb-favorite brand Eminence Organic Skin Care recently introduced a clay mask ($70) intended to tighten skin with ultrahydrating snow mushroom and birch water combined with firming paracress extract. *Available at emstore.com*
+
+**Wild Superfood Lip Drops** **by Teadora**
+
+Lip fillers are all the rage, but if you prefer something less invasive, try these biodegradable lip drops ($66) from Bellevue-based Teadora. The drops are said to plump, soften and smooth lips with a combo of tripeptides and other botanical extracts. *Available at teadorabeauty.com*
