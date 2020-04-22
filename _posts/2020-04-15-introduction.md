@@ -6,7 +6,7 @@ categories: [ Featured ]
 image: assets/images/ingredients.jpg
 ---
 
-**Bellevue-based Skin Care Brand Balances Organic and Synthetic Ingredients**
+## **Bellevue-based Skin Care Brand Balances Organic and Synthetic Ingredients**
 
 This article appears in print in the [Seattle Magazine](http://www.seattlemag.com/) November 2019 issue.
 

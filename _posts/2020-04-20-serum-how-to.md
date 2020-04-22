@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "third"
+title:  "Coming Soon"
 author: rachel
 categories: [ stay tuned ]
 image: assets/images/serum.jpg
 ---
+

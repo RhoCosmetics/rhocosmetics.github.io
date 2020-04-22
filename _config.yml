@@ -22,7 +22,7 @@ authors:
     rachel:
       name:           Rachel
       site:           https://rhocosmetics.com
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/meet-our-founder.jpg
       bio:            "Hi. I'm Rachel, the founder and formulation chemist behind Rho Cosmetics. Better beauty choices begins with a true understanding of what we put on our skin. Let's talk skincare!"
       email:          rachel@rhocosmetics.com
       instagram:        https://instagram.com/rhocosmetics
@@ -37,7 +37,7 @@ defaults:
     values:
       layout: post
       author: rachel
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/meet-our-founder.jpg
       
   # all pages
   - scope:
