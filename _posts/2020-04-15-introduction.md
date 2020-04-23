@@ -2,7 +2,7 @@
 layout: post
 title:  "Glowing Skin Begins With Better Beauty Choices"
 author: rachel
-categories: [ Jekyll, tutorial ]
+categories: [ Beauty Inspiration ]
 image: assets/images/cover-photo.jpg
 tags: [highlighted]
 ---
