@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Best Follow Up Ingredients For Your Routine"
+title:  "Best Follow Up Steps For Your Routine"
 author: rachel
 categories: [ Skincare Tips ]
 image: assets/images/comedogenic-2.jpg
 ---
 
-Testing out new skincare products can either be an exciting experience or an uneasy venture. Depending on the product, the skin may require a period of adjustment before achieving results of radiant skin. It can seem like a toss between emotions as we wait for glowy skin results or the reveal of a dreadful break out.  Here are some helpful tips on the best follow up ingredients that can help enhance your skincare experience and make the transition as smooth as possible. 
+Testing out new skincare products can either be an exciting experience or an uneasy venture. Depending on the product, the skin may require a period of adjustment before achieving results of radiant skin. It can seem like a toss between emotions as we wait for glowy skin results or the reveal of a dreadful break out.  Here are some helpful tips on the best follow up steps that can help enhance your skincare experience and make the transition as smooth as possible. 
 
 ## Exfoliation + Ceramides
 
@@ -22,7 +22,7 @@ Recommendation: Stick to the basics and follow-up with a soothing, gentle routin
 
 ## Low dosage AHAs and BHAs + Vitamin C
 
-![](\assets\images\citrus.jpg)The combination of Vitamin C and concentrated chemical exfoliants such as alpha hydroxy acids (AHAs) and beta hydroxy acids (BHAs) can lead to irritated skin. However a low dosage of AHAs and BHAs can help gently exfoliate the top layer of the skin for Vitamin C to work more effectively. 
+![](\assets\images\citrus.jpg)The combination of Vitamin C and concentrated chemical exfoliants such as alpha hydroxy acids (AHAs) and beta hydroxy acids (BHAs) can lead to irritated skin. However, a low dosage of AHAs and BHAs can help gently exfoliate the top layer of the skin for Vitamin C to work more effectively. 
 
 Recommendation: Use a toner containing chemical exfoliant (AHA, BHA, or AHA and BHA) followed by a Vitamin C serum.
 
