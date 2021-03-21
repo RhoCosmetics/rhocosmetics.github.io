@@ -9,7 +9,7 @@ tags: slugging k-beauty vaseline petrolatum skincare non-comedogenic
 
 The world of skincare, more specifically referring to skincare trends, can be unusual. At one point, the beauty community may or may not have fallen into the trend of applying snail slime onto our faces. Though more recently, a new trend of "slugging" has been popularized. Thankfully slugging doesn't involve applying animal secretions, however it does involve a controversial ingredient in skincare.
 
-**What is Slugging?**
+**What is slugging?**
 
 Slugging is a skincare trend that involves layering petrolatum, often known as Vaseline or petroleum jelly, on the face. 
 
@@ -29,7 +29,7 @@ Some grades of petrolatum go as far to acquire a USP label, meaning that the ing
 
 Apply a pea sized amount of petrolatum to the face as the last step of your skincare routine. Though some chose to apply petrolatum all over the face, targeted slugging can help with areas on the face with flaky skin or compromised skin barrier.
 
-**Who should be slugging**
+**Who should be slugging**?
 
 Those with [dry skin](https://blog.rhocosmetics.com/skin-type-products-101/) can benefit the most from slugging as the last step of their skincare routine. Slugging is also a great option for those with [sensitive skin](https://blog.rhocosmetics.com/skin-type-products-101/) as petrolatum is a non-irritating skincare ingredient.
 
